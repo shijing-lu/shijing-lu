@@ -1,36 +1,53 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=一叶浮萍归大海，人生何处不相逢;金风玉露一相逢，便胜却人间无数&center=true&size=27"> </a> </h1>
 
-> 👋 你好，我是 ​**shijinglu**（市井鹿）！这是我的笔名。我来自江苏大学，目前在就读大四。正在成长的程序员，让未来见证。
+![image.png](./wallhaven-85yeq1.png)
 
-🏄 兴趣爱好
+> 👋 你好，我是 ​**shijinglu**（市井鹿）！这是我的笔名。我来自江苏大学，目前在就读大四。正在成长的程序员，让我们一起见证。
+
+---
+
+## 🏄 兴趣爱好
 - 运动（游泳、健身、乒乓）
 - 阅读（文学、地理、计算机...）
 - 音乐（周杰伦、许嵩）
 - 编程（虽然很菜，但在努力中...）
 
-💪技术栈
 
-<h3 align="center">🔥 Tech Stack 🔥</h3>
+## 🛠️ 技术栈 | Tech Stack
 
-## 🛠️ Tech Stack
 
-<!-- 徽章生成：https://shields.io/ -->
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+<div align="center">
+	
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=apache&logoColor=white)
+![MyBatis-Plus](https://img.shields.io/badge/MyBatis_Plus-2593F5?style=for-the-badge&logo=apache&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![SpringMVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- 伪进度条（创意排版） -->
+</div>
 
+<div align="center">
 
-Mylog
-- log1
-- log2
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shijing-lu)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-	![trophy](https://github-profile-trophy.vercel.app/?username=shijing-lu&theme=onedark)
+<div style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shijing-lu&show_icons=true" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shijing-lu&layout=compact" height="195"/>
+</div>
 
-> 最近我在干什么？
+### 🌌 近期轨迹
 
-- 完成毕业设计《库存响应系统》
-- 找工作
-- 读书《Java开发手册黄山版》
+✨ 正在打造 ​**​《库存响应系统》​**​ 毕业设计  
+📚 研读《Java开发手册黄山版》电子版  
+🏃 备战秋招 & 面试闯关  
+🎯 每日LeetCode修炼计划  
+🌱 探索Docker容器化部署实践
