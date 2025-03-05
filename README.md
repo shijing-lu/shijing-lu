@@ -44,6 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shijing-lu&layout=compact" height="195"/>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shijing-lu&&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 🌌 近期轨迹
 
 ✨ 正在打造 ​**​《库存响应系统》​**​ 毕业设计  
