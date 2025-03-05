@@ -1,11 +1,10 @@
 
 # 👋 你好，我是 ​**shijinglu**！  
-**一个热爱运动、编程与阅读的小镇学霸**​ 🚀
-
+**一个热爱运动、编程与阅读的小镇做题家**​ 🚀
 ---
 
 ## 🎯 ​**我的简介**
-```diff
+diff
 + Bio: "A small-town swot who likes sports, programs and reading."
 + Pronouns: Custom（自定义代词）
 + Company: Co（某公司）
