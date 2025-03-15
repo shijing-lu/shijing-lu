@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=一叶浮萍归大海，人生何处不相逢;金风玉露一相逢，便胜却人间无数&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=一叶浮萍归大海，人生何处不相逢;莫愁前路无知己，天下谁人不识君&center=true&size=27"> </a> </h1>
 
 ![image.png](./wallhaven-85yeq1.png)
 
