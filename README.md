@@ -1,16 +1,13 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=一叶浮萍归大海，人生何处不相逢;莫愁前路无知己，天下谁人不识君&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=天生我才必有用，千金散尽欢复来！;莫愁前路无知己，天下谁人不识君&center=true&size=27"> </a> </h1>
 
 ![image.png](./wallhaven-85yeq1.png)
 
-> 👋 你好，市井喧喧车马尘，林鹿呦呦梦中闻，我是 ​**shijinglu**（市井鹿）！这是我的笔名。我来自江苏大学，目前在就读大四。路漫漫长其修远兮,吾将上下而求索.
+> 锦衣时着神鹿，布衣兮起烟火。归去否？归去噫。想来万里跬步，天地踏破犹可至也。
 
 ---
 
 ## 🏄 兴趣爱好
-- 运动（游泳、健身、乒乓）
-- 阅读（文学、地理、计算机...）
-- 音乐（周杰伦、许嵩）
-- 编程（会一点前端,主要后端开发Web）
+闲暇时，假以运动、音乐、读书聊以度日
 
 
 ## 🛠️ 技术栈 | Tech Stack
