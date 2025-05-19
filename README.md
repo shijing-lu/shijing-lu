@@ -2,7 +2,7 @@
 
 ![image.png](./wallhaven-85yeq1.png)
 
-> 锦衣时着神鹿，布衣兮起烟火。归去否？归去噫。想来万里跬步，天地踏破犹可至也。
+> 锦衣兮驾神鹿，布衣兮生烟火。归去否？归去噫。纵有万里跬步，天地踏破犹可至。
 
 ---
 
@@ -43,10 +43,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shijing-lu&&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🌌 近期轨迹
+### 🌌 近期轨迹（2025.5.19更新）
 
-✨ 正在打造 ​**​《库存响应系统》​**​ 毕业设计  
-📚 研读《Java开发手册黄山版》电子版  
-🏃 备战秋招 & 面试闯关  
-🎯 每日LeetCode修炼计划  
-🌱 探索Docker容器化部署实践
+✨  ​**​《库存响应系统》​**​ 毕业设计--论文完稿阶段
+📚 深度学习需求文档书写  
+🏃 计划重置个人博客网站开发  
+🎯 代码随想录--算法学习 
+🌱 零散地看一些其他书籍--pr教程、音乐理论
