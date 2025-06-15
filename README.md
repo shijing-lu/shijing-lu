@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines天生我才必有用，千金散尽欢复来！;莫愁前路无知己，天下谁人不识君&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=天生我才必有用，千金散尽欢复来;莫愁前路无知己，天下谁人不识君&center=true&size=27"> </a> </h1>
 
 ![image.png](./wallhaven-85yeq1.png)
 
